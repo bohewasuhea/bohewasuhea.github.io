@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohewasuhea.github.io/sitemap.xml
